@@ -21,7 +21,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Create a heroku account here: https://signup.heroku.com. Make sure to verify your email and set a password. If you already have a heroku account, log into it.
 - Click this button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Tan121212/ProxyService?organization=Tan121212&organization=Tan121212)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Tan121212/ProxyService)
 
 - Type in whatever name you want.
 - Click "Deploy app". Don't touch any of the variables unless you know what you're doing.
